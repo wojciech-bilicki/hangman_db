@@ -1,0 +1,50 @@
+{
+  tries: 10,
+  words:[
+    { id: 1,
+      category: 'Books',
+      title: 'Shining',
+      hint: 'Redrum, redrum!'
+    },
+    { id: 2,
+      category: 'Books',
+      title: 'Harry Potter and The Chambers Of Secrets',
+      hint: 'Big snake in school of wizards'
+    },
+    { id: 3,
+      category: 'Books',
+      title: 'Hobbit or There and Back again',
+      hint: "I'm going on an adventure"
+    },
+    { id:4,
+      category: 'Games',
+      title: 'Super Mario Bros',
+      hint: 'Collecting coins, eating shrooms and saving the queen'
+    },
+    {id: 5,
+      category: 'Games',
+      title: 'Worms World Party',
+      hint: 'Maggots fight around the globe '
+    },
+    { id: 6,
+      category: 'Games',
+      title: 'Witcher Wild Hunt',
+      hint: 'White haired dude with two swords'
+    },
+    { id: 7,
+      category: 'Movies',
+      title: 'Wolf from wall street',
+      hint: 'Leonardo Di Caprio, drugs and money'
+    },
+    { id: 8,
+      category: 'Movies',
+      title: 'Avatar',
+      hint: 'Blue, tall humans with strange ears utopia'
+    },
+    { id: 9
+      category: 'Movies',
+      title: 'Captain America: Civil War',
+      hint: 'First Avenger and Iron Man fight each other'
+    }
+  ]
+}
